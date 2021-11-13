@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhammisal
 - 👀 I’m interested in all programming Languages..
-- 🌱 I’m currently learning Python,ML,Angular
+- 🌱 I’m currently learning Java,Python,ML,Angular
 - 📫 How to reach me using Gmail-shubham010misal@gmail.com
 
 <!---
