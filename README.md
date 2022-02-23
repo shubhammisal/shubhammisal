@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shubhammisal
 - 👀 I’m interested in all programming Languages..
 - 🌱 I’m currently learning Java,Python,ML,Angular
-- 📫 How to reach me using Gmail-shubham010misal@gmail.com
+- 📫 You can reach me using Gmail-shubham010misal@gmail.com
 
 <!---
 shubhammisal/shubhammisal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
